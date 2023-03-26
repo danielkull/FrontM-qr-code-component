@@ -23,7 +23,8 @@ My solution of the QR code compontent challenge on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/danielkull/FrontM-qr-code-component)
+- Solution URL: [GitHub repository](https://github.com/danielkull/FrontM-qr-code-component)
+- Live Site URL: [Live site from GitHub](https://danielkull.github.io/FrontM-qr-code-component/)
 
 ## My process
 
